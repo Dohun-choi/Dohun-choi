@@ -68,6 +68,9 @@ hallow2546@gmail.com
 <a href="https://flutter.dev/">
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
 </a>
+<a href="https://docs.djangoproject.com/ko/5.1/intro/">
+  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
+</a>
 
 ### 🪛 도구
 <a href="https://www.atlassian.com/software/jira">
