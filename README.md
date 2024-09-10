@@ -10,6 +10,15 @@ hallow2546@gmail.com
 
 [기술 블로그](https://curt-poem.tistory.com/)
 
+### 요즘 개발 관심사
+• Typescript 이해하기:
+  [타입스크립트 심층 분석 3 - 타입스크립트의 구조적 타이핑과 타입호환성](https://curt-poem.tistory.com/entry/타입스크립트-심층-분석-3-타입스크립트의-구조적-타이핑과-타입호환성)
+  
+• Best Practice 만들어보기:
+  [React에서 화면과 로직의 분리 도전기(with. context API)](https://curt-poem.tistory.com/entry/React에서-화면과-로직의-분리-도전기with-context-API)
+
+• 나만의 개발 철학 만들어보기
+
 # 📝 보유 기술
 ### 💬 프로그래밍 언어
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
