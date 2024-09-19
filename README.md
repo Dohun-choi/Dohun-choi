@@ -23,6 +23,15 @@ hallow2546@gmail.com
 
 • 나만의 개발 철학 만들어보기
 
+# 🧑‍🎓 학습
+2017.03 ~ 2023.02 - 부산대학교 사회복지학과 학사
+
+2023.07 ~ 2024.06 - 삼성 청년 소프트웨어 아카데미 (SSAFY)
+
+2024.06 ~ 2024.08 - 네이버 부스트 캠프 베이직 & 챌린지 과정
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlehgns123)](https://solved.ac/chlehgns123)
+
 # 📝 보유 기술
 ### 💬 프로그래밍 언어
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
@@ -101,14 +110,5 @@ hallow2546@gmail.com
 <a href="https://aws.amazon.com/ko">
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
 </a>
-
-# 🧑‍🎓 학습
-2017.03 ~ 2023.02 - 부산대학교 사회복지학과 학사
-
-2023.07 ~ 2024.06 - 삼성 청년 소프트웨어 아카데미 (SSAFY)
-
-2024.06 ~ 2024.08 - 네이버 부스트 캠프 베이직 & 챌린지 과정
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlehgns123)](https://solved.ac/chlehgns123)
 
 </div>
