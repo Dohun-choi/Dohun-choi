@@ -11,10 +11,13 @@ hallow2546@gmail.com
 [기술 블로그](https://curt-poem.tistory.com/)
 
 ### 요즘 개발 관심사
-• Typescript 이해하기:
+• Typescript 이해하기
+
   [타입스크립트 심층 분석 3 - 타입스크립트의 구조적 타이핑과 타입호환성](https://curt-poem.tistory.com/entry/타입스크립트-심층-분석-3-타입스크립트의-구조적-타이핑과-타입호환성)
+  [type-challenges 문제 풀이로 타입스크립트 타입 시스템 깊이 파기: Easy 난이도 - 3](https://curt-poem.tistory.com/entry/type-challenges-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4%EB%A1%9C-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B9%8A%EC%9D%B4-%ED%8C%8C%EA%B8%B0-Easy-%EB%82%9C%EC%9D%B4%EB%8F%84-3)
   
-• Best Practice 만들어보기:
+• Best Practice 만들어보기
+
   [React에서 화면과 로직의 분리 도전기(with. context API)](https://curt-poem.tistory.com/entry/React에서-화면과-로직의-분리-도전기with-context-API)
 
 • 나만의 개발 철학 만들어보기
@@ -99,7 +102,9 @@ hallow2546@gmail.com
 </a>
 
 # 🧑‍🎓 학습
-2023.07~2024.06 - 삼성 청년 소프트웨어 아카데미 (SSAFY)
+2017.03 ~ 2023.02 - 부산대학교 사회복지학과 학사
+
+2023.07 ~ 2024.06 - 삼성 청년 소프트웨어 아카데미 (SSAFY)
 
 2024.06 ~ 2024.08 - 네이버 부스트 캠프 베이직 & 챌린지 과정
 
