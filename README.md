@@ -7,6 +7,8 @@
 
 hallow2546@gmail.com
 
+[포트폴리오\(노션\)](https://dohun-choi.notion.site/1033d3b0816f803e936acec589708634?pvs=4)
+
 
 [기술 블로그](https://curt-poem.tistory.com/)
 
@@ -81,6 +83,9 @@ hallow2546@gmail.com
 <a href="https://zustand-demo.pmnd.rs/">
   <img src="https://img.shields.io/badge/zustand-000000?style=flat&logo=zustand&logoColor=white">
 </a>
+<a href="https://recoiljs.org/ko/">
+  <img src="https://img.shields.io/badge/recoil-3578E5?style=flat&logo=recoil&logoColor=white">
+</a>
 <a href="https://styled-components.com/docs">
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white">
 </a>
@@ -109,6 +114,9 @@ hallow2546@gmail.com
 </a>
 <a href="https://aws.amazon.com/ko">
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
+</a>
+<a href="https://www.virtualbox.org/">
+  <img src="https://img.shields.io/badge/virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white">
 </a>
 
 </div>
