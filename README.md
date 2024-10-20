@@ -3,27 +3,11 @@
 <div align="center">
 
 # About Me
-안녕하세요. 사용자를 우선으로 생각하는 개발자 최도훈입니다.
-
-hallow2546@gmail.com
 
 [포트폴리오\(노션\)](https://dohun-choi.notion.site/1033d3b0816f803e936acec589708634?pvs=4)
 
 
 [기술 블로그](https://curt-poem.tistory.com/)
-
-### 요즘 개발 관심사
-• Typescript 이해하기
-
-  [TypeScript 심층 분석](https://curt-poem.tistory.com/tag/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%8B%AC%EC%B8%B5%20%EB%B6%84%EC%84%9D)
-  
-  [type-challenges 문제 풀이로 타입스크립트 타입 시스템 깊이 파기](https://curt-poem.tistory.com/tag/type-challenges%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4%EB%A1%9C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B9%8A%EC%9D%B4%20%ED%8C%8C%EA%B8%B0)
-  
-• Best Practice 만들어보기
-
-  [React에서 화면과 로직의 분리 도전기(with. context API)](https://curt-poem.tistory.com/entry/React에서-화면과-로직의-분리-도전기with-context-API)
-
-• 나만의 개발 철학 만들어보기
 
 # 🧑‍🎓 학습
 2017.03 ~ 2023.02 - 부산대학교 사회복지학과 학사
