@@ -16,6 +16,8 @@
 
 2024.07 ~ 2024.08 - 네이버 부스트 캠프 베이직 & 챌린지 과정
 
+2024.12.09 ~ 현재 - Intern at VoyagerX(Android Developer)
+
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlehgns123)](https://solved.ac/chlehgns123)
 
 # 📝 보유 기술
@@ -31,6 +33,9 @@
 </a>
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+</a>
+<a href="https://kotlinlang.org/docs/home.html">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
 </a>
 
 ### 📚 라이브러리 및 프레임워크
@@ -81,6 +86,9 @@
 </a>
 <a href="https://docs.djangoproject.com/ko/5.1/intro/">
   <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
+</a>
+<a href="https://developer.android.com/compose">
+  <img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=flat&logo=jetpackcompose&logoColor=white">
 </a>
 
 </div>
