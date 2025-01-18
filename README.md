@@ -16,7 +16,7 @@
 
 2024.07 ~ 2024.08 - 네이버 부스트 캠프 베이직 & 챌린지 과정
 
-2024.12.09 ~ 현재 - Intern at VoyagerX(Android Developer)
+2024.12.09 ~ 현재 - Intern at VoyagerX
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlehgns123)](https://solved.ac/chlehgns123)
 
