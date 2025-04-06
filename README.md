@@ -72,8 +72,11 @@
 <a href="https://zustand-demo.pmnd.rs/">
   <img src="https://img.shields.io/badge/zustand-000000?style=flat&logo=zustand&logoColor=white">
 </a>
-<a href="https://styled-components.com/docs">
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white">
+<a href="https://ui.shadcn.com/">
+  <img src="https://img.shields.io/badge/shadcnui-000000?style=flat&logo=shadcnui&logoColor=white">
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
 </a>
 <br/>
 <a href="https://ko.vitejs.dev/guide/">
