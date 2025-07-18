@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDohun-choi%2FTIL&count_bg=%23DC3FCE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
 
@@ -14,7 +13,9 @@
 
 2024.07 ~ 2024.08 - 네이버 부스트 캠프 베이직 & 챌린지 과정
 
-2024.12.09 ~ 현재 - Intern at VoyagerX
+2024.12 ~ 2025.07 - Intern at VoyagerX
+
+2025.07 ~ 현재 - VoyagerX software-engineer
 
 # 📝 보유 기술
 ### 💬 프로그래밍 언어
