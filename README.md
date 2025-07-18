@@ -39,6 +39,9 @@
 <a href="https://ko.react.dev/">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
 </a>
+<a href="[https://nextjs.org/](https://www.electronjs.org/)">
+  <img src="https://img.shields.io/badge/electron-47848F?style=flat&logo=electron&logoColor=white">
+</a>
 <a href="https://ko.vuejs.org/">
   <img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
 </a>
@@ -67,8 +70,8 @@
 <a href="https://mswjs.io/">
   <img src="https://img.shields.io/badge/msw-FF6A33?style=flat&logo=mockserviceworker&logoColor=white">
 </a>
-<a href="https://ko.redux.js.org/">
-  <img src="https://img.shields.io/badge/reduxtookit-764ABC?style=flat&logo=redux&logoColor=white">
+<a href="https://vitest.dev/">
+  <img src="https://img.shields.io/badge/vitest-6E9F18?style=flat&logo=vitest&logoColor=white">
 </a>
 <a href="https://zustand-demo.pmnd.rs/">
   <img src="https://img.shields.io/badge/zustand-000000?style=flat&logo=zustand&logoColor=white">
